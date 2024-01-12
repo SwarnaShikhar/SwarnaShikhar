@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **how to make a perfect resume**
 
-- 👨‍💻 All of my projects are available at [http://swarnashikhardas.live/](http://swarnashikhardas.live/)
+- 👨‍💻 All of my projects are available at [https://swarnashikhar.netlify.app/](https://swarnashikhar.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@swarnashikhar2002](https://medium.com/@swarnashikhar2002)
 
