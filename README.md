@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **swarnashikhar2002@gmail.com**
 
-- ⚡ Fun fact **I need a doctor**
+- ⚡ Fun fact **I need a daktar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
